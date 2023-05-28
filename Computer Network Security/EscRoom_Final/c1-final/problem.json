@@ -1,0 +1,11 @@
+{
+  "name": "Esc Room 1",
+  "category": "Web Exploitation",
+  "pkg_dependencies": ["php7.2-sqlite3"],
+  "description": "Escape the room: http://{{server}}/problem/{{port}}/index.html",
+  "score" : 100,
+  "hints": ["Remember who you are..."],
+  "author": "Justin, Jon, Brian",
+  "organization": "WPI",
+  "event": "Class Project"
+}

@@ -1,0 +1,113 @@
+commit 7a913f3053f9d63493097f33c53649cf36180418
+Author: EC2 Default User <ec2-user@ip-172-31-32-205.ec2.internal>
+Date:   Tue Dec 13 18:29:11 2022 +0000
+
+    Iteration 3 final commit
+
+commit 25b480f16473fe3935df1c79da4acef9c6d18c63
+Author: EC2 Default User <ec2-user@ip-172-31-32-205.ec2.internal>
+Date:   Mon Dec 5 20:25:31 2022 +0000
+
+    Dec 5 finished fill shelves and fixed process shipment for minor adjustments
+
+commit 4515ab4743b80c667ea5bd83127eccbdccbbaa71
+Author: EC2 Default User <ec2-user@ip-172-31-32-205.ec2.internal>
+Date:   Wed Nov 30 21:19:19 2022 +0000
+
+    Nov 30 Finished Buy Item
+
+commit c84f37ed4bde95acc5ed7b734dde736d21a33783
+Author: EC2 Default User <ec2-user@ip-172-31-32-205.ec2.internal>
+Date:   Wed Nov 30 18:34:48 2022 +0000
+
+    Nov 30 Dev Session Finished CorporateTotalStore
+
+commit 4448b569f80be38e1383062cf18ab38a5fbcd1cf
+Author: Jduran-wpi <87102538+Jduran-wpi@users.noreply.github.com>
+Date:   Wed Nov 30 11:47:47 2022 -0500
+
+    Delete Iteration2/customer_find_item_in_store/manager_generate_overstock_report directory
+
+commit e15da09efb8200bcf217afa4f2f73795bfe1b49d
+Author: Jduran-wpi <87102538+Jduran-wpi@users.noreply.github.com>
+Date:   Wed Nov 30 11:47:35 2022 -0500
+
+    Delete Iteration2/customer_find_item_in_store/customer_list_stores directory
+
+commit 7433677474e8ebd8603ec4092caa6a2ddf3a0477
+Author: Jduran-wpi <87102538+Jduran-wpi@users.noreply.github.com>
+Date:   Wed Nov 30 11:47:16 2022 -0500
+
+    Delete Iteration2/customer_find_item_in_store/customer_find_item_in_store directory
+
+commit b06d5cf5ab5980bf8fae70d4e9978870ca055394
+Author: Jduran-wpi <87102538+Jduran-wpi@users.noreply.github.com>
+Date:   Wed Nov 30 11:46:53 2022 -0500
+
+    Delete Iteration2/customer_find_item_in_store/corporate_remove_store directory
+
+commit 7e78c61a9f6988a4d2d1bc196f9cd7ef539f47f1
+Author: Jduran-wpi <87102538+Jduran-wpi@users.noreply.github.com>
+Date:   Wed Nov 30 11:46:33 2022 -0500
+
+    Delete Iteration2/customer_find_item_in_store/corporate_list_stores directory
+
+commit a757b489430a142198f3f244d076c1e96a7c0d33
+Author: Jduran-wpi <87102538+Jduran-wpi@users.noreply.github.com>
+Date:   Wed Nov 30 11:46:11 2022 -0500
+
+    Delete Iteration2/customer_find_item_in_store/corporate_generate_store_inventory_report directory
+
+commit 3da49d954f85344423a38cb5efcded9268035301
+Author: EC2 Default User <ec2-user@ip-172-31-32-205.ec2.internal>
+Date:   Wed Nov 30 01:54:05 2022 +0000
+
+    Iteration 3 First Commit
+
+commit 4e7398e7df9c4766825a84b7aea36bc1000689e8
+Author: EC2 Default User <ec2-user@ip-172-31-32-205.ec2.internal>
+Date:   Wed Nov 30 00:51:27 2022 +0000
+
+    Iteration 2 Final Commit
+
+commit 432a43cb26c4b1f163daf9df85a7fe20cbe15ec3
+Author: EC2 Default User <ec2-user@ip-172-31-32-205.ec2.internal>
+Date:   Sun Nov 27 05:06:06 2022 +0000
+
+    cleanup - miles
+
+commit 52157e16f6de540af75776a2d7e8375c68091429
+Author: EC2 Default User <ec2-user@ip-172-31-32-205.ec2.internal>
+Date:   Sun Nov 27 05:01:44 2022 +0000
+
+    added customer find item in store
+
+commit e11d0917096db31ee5109617908f10d5c8c6f51f
+Author: EC2 Default User <ec2-user@ip-172-31-32-205.ec2.internal>
+Date:   Wed Nov 16 19:28:23 2022 +0000
+
+    Nov 16 Group Session
+
+commit 1f02bcb3312d0e9bb5c185f29ee49691afa4ebd3
+Author: EC2 Default User <ec2-user@ip-172-31-32-205.ec2.internal>
+Date:   Wed Nov 16 00:59:18 2022 +0000
+
+    first commit
+
+commit 435f91349edb8dd1d94fcd5265cacb4cb8a73af4
+Author: EC2 Default User <ec2-user@ip-172-31-32-205.ec2.internal>
+Date:   Wed Nov 16 00:58:17 2022 +0000
+
+    first commit
+
+commit 5d4843a8e6624de068f9996911b0d6ef33458bbb
+Author: EC2 Default User <ec2-user@ip-172-31-32-205.ec2.internal>
+Date:   Wed Nov 16 00:55:37 2022 +0000
+
+    first commit
+
+commit 5819e55711a844f66f96f0d2db178a6bc93c7689
+Author: Jduran-wpi <87102538+Jduran-wpi@users.noreply.github.com>
+Date:   Tue Nov 15 19:45:21 2022 -0500
+
+    Initial commit

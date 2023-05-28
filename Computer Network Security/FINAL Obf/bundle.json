@@ -1,0 +1,15 @@
+{
+  "problem2": {
+    "threshold": 1,
+    "weightmap": {
+      "problem1": 1
+    }
+  },
+  "problem4": {
+    "threshold" : 1,
+    "weightmap": {
+      "problem2": 1,
+      "problem3": 1
+    }
+  }
+}

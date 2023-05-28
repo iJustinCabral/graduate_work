@@ -1,0 +1,11 @@
+{
+  "name": "Esc Room 2",
+  "category": "Web Exploitation",
+  "pkg_dependencies": ["php7.2-sqlite3"],
+  "description": "With the password found from Esc Room 1, login and escape: http://{{server}}/problem/{{port}}/index.html.",
+  "score" : 100,
+  "hints": ["Crack em' all.. no need to use common password suffixes. A tool might be useful to automate things."],
+  "author": "Justin, Jon, Brian",
+  "organization": "WPI",
+  "event": "Class Project"
+}

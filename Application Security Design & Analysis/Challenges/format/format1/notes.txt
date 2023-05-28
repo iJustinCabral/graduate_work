@@ -1,0 +1,57 @@
+Local Stack Values
+---------------------
+
+rsp     - 0x7ffff7fa76a0 (possible libc address)
+rsp-8   - 0x243725fff7e0e5ff (possible format string?)
+rsp-16  - 0x7ffff7000a70 (possible libc address)
+rsp-24  - nil
+rsp-32  - 0x7fffffffe580 (stack address)
+rsp-40  - 0x7fffffffe698 (stack address)
+rsp-48  - 0x7fffffffe580 (stack address)
+rsp-56  - 0x555555400a57 (possible return addr for vuln() )
+rsp-64  - 0x7fffffffe698 (stack address)
+rsp-72  - 0x1554007f0 (??? format string)
+rsp-80  - 0x1 (???)
+rsp-88  - 0x7ffff7db6d90 (libc_start_main)
+rsp-96  - nil
+rsp-104 - 0x5555554009d2 (possible return addr for vuln() or main() )
+rsp-112 - 0x1ffffe680 (some kind of offset of another address)
+rsp-120 - 0x7fffffffe698 (stack address)
+rsp-128 - nil
+rsp-136 - 0x4f7b13bfb218f7fd (??? some hex value)
+rsp-144 - 0x7fffffffe698 (stack address)
+rsp-152 - 0x5555554009d2 (possible retun addr for vuln() or main())
+
+
+
+
+
+
+Network Stack Values
+----------------------
+win_addr - 0x5555555548fa
+target_addr - 0x55555575504c
+
+rsp     - 0x7ffff7dce680        (libc address)
+rsp-8   - 0x243725fff7a631e7    (?? format string) // start of buffer
+rsp-16  - 0xa70                 (?? no clue)
+rsp-24  - nil        
+rsp-32  - 0x7fffffffebc0        (stack address) 
+rsp-40  - 0x5555555547f0        (ret address) **
+rsp-48  - 0x7fffffffebc0        (stack address)
+rsp-56  - 0x555555554a57        (ret address) **
+rsp-64  - 0x7fffffffeca8        (stack address)
+rsp-72  - 0x100000000           (?? Hex value for number possibly)
+rsp-80  - 0x555555554a60        (ret address) **
+rsp-88  - 0x7ffff7a03c87        (libc address)
+rsp-96  - 0x1
+rsp-104 - 0x7fffffffeca8        (stack address) 
+rsp-112 - 0x100008000
+rsp-120 - 0x5555555549d2        (possible return address) **
+rsp-128 - nil
+rsp-136 - 0xc3c50165369943a4    (?? string value in hex)
+rsp-144 - 0x5555555547f0        (return address) **
+rsp-152 - 0x7fffffffeca0        (stack address)
+rsp-160 - nil
+rsp-168 - nil
+rsp-176 - 0xaf232e7c34b4e315    (??)

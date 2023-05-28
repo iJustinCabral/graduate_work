@@ -1,0 +1,480 @@
+commit 8477e736712dd7065182964f5247aa0cfb34c7f3
+Merge: b5c5d8c 18708ec
+Author: HMartinez114 <48391269+HMartinez114@users.noreply.github.com>
+Date:   Tue Dec 13 13:38:49 2022 -0500
+
+    Merge pull request #23 from iJustinCabral/FinishingTouches
+    
+    Finish Touches for iteration3
+
+commit 18708ecea2a3eb640dadbd872ca9b2491f23655c
+Author: HMartinez114 <48391269+HMartinez114@users.noreply.github.com>
+Date:   Tue Dec 13 13:24:08 2022 -0500
+
+    Finish Touches for iteration3
+    
+    Changed some manager output text boxes to appear neater and cleaner. Fixed error on some corporate pages to have the lists wipe themselves on repeated clicks.
+
+commit b5c5d8cf706e7a315010321907c507bc913c153a
+Merge: d2b69f9 058c7cf
+Author: Justin Cabral <ijustincabral@gmail.com>
+Date:   Wed Dec 7 11:59:57 2022 -0500
+
+    Merge pull request #22 from iJustinCabral/Iteration3FillShelvesWork
+    
+    FIll Shelves Page
+
+commit 058c7cf13082b95877775d644c46e8565203d824
+Author: HMartinez114 <48391269+HMartinez114@users.noreply.github.com>
+Date:   Wed Dec 7 11:59:24 2022 -0500
+
+    FIll Shelves Page
+    
+    Added lambda api gatway to the page. Added some notificaitons if a shelf was successfully filled. Added catch if there was an error
+
+commit d2b69f98f7dcf6b403a25d6b7249f1b813b475c3
+Merge: 977cea4 afea60c
+Author: Justin Cabral <ijustincabral@gmail.com>
+Date:   Mon Dec 5 11:37:31 2022 -0500
+
+    Merge pull request #21 from iJustinCabral/Iteration3CleanUp
+    
+    Updated Process Shipment Page
+
+commit afea60cf9a8eff4f5607c381e5e2a3ce8455e5c4
+Author: HMartinez114 <48391269+HMartinez114@users.noreply.github.com>
+Date:   Mon Dec 5 11:37:14 2022 -0500
+
+    Updated Process Shipment Page
+    
+    Process shipment page updated to show what we expect for format, for process shipment. Made examples red.
+
+commit 977cea44b0131a0a22dbdcbb2c362dd140b2678f
+Merge: f06c7be dcdcc2b
+Author: Justin Cabral <ijustincabral@gmail.com>
+Date:   Mon Dec 5 11:32:53 2022 -0500
+
+    Merge pull request #20 from iJustinCabral/final_fixes
+    
+    Bug Fixes
+
+commit dcdcc2b90219e7a45a418012015f1900403da91e
+Author: Justin Cabral <ijustincabral@gmail.com>
+Date:   Mon Dec 5 11:32:22 2022 -0500
+
+    Bug Fixes
+    
+    Fixed the problem with the lists of stores not refreshing after clicking list again.
+
+commit f06c7becf9ee252faf2556ed6d5e27943688ff53
+Merge: 9b6e849 f307540
+Author: Justin Cabral <ijustincabral@gmail.com>
+Date:   Wed Nov 30 19:30:19 2022 -0500
+
+    Merge pull request #19 from iJustinCabral/fixes-work
+    
+    total price added
+
+commit 9b6e849186e42b16d2bf8ee53d0fce1f20f9abdc
+Merge: fc9b512 82b7e25
+Author: Justin Cabral <ijustincabral@gmail.com>
+Date:   Wed Nov 30 19:29:55 2022 -0500
+
+    Merge pull request #18 from iJustinCabral/just_work
+    
+    Finished Buy Item Use Case
+
+commit fc9b512b972eddf792f4938480e8281a5adfa254
+Merge: 0d97bbc ac2b946
+Author: Justin Cabral <ijustincabral@gmail.com>
+Date:   Wed Nov 30 19:29:16 2022 -0500
+
+    Merge pull request #17 from iJustinCabral/Iteration3-InitialWork
+    
+    Initial Work for Fill Shelves and Missing Items
+
+commit 82b7e257d0328028f9eb4f70c3199e512fb35731
+Author: Justin Cabral <ijustincabral@gmail.com>
+Date:   Wed Nov 30 19:28:05 2022 -0500
+
+    Buy Item Complete
+    
+    Completed the Customer Buy Item use case.
+
+commit 42a5b2533416eda368e26b5eb4cc5a983cddbf72
+Author: Justin Cabral <ijustincabral@gmail.com>
+Date:   Wed Nov 30 12:47:19 2022 -0500
+
+    Generate Total Inventory Report
+    
+    Completed the use case for generating the total inventory report.
+
+commit ac2b94676b6c3357113da876c65b868187153c95
+Author: HMartinez114 <48391269+HMartinez114@users.noreply.github.com>
+Date:   Tue Nov 29 20:56:31 2022 -0500
+
+    Initial Work for Fill Shelves and Missing Items
+    
+    Missing Items Page is working, initial groundwork for Fill Shelves done as well
+
+commit f307540acfff99fa2e19766576b49da75454f3b2
+Author: MilesGregg <milesgregg3@gmail.com>
+Date:   Tue Nov 29 19:57:06 2022 -0500
+
+    total price added
+
+commit 0d97bbc0eade1e081bfd7645b787ea27659fd32d
+Merge: d0bcef2 550e00e
+Author: Justin Cabral <ijustincabral@gmail.com>
+Date:   Fri Nov 25 19:54:21 2022 -0500
+
+    Merge pull request #16 from iJustinCabral/Iteration2CustomerFIndStore
+    
+    Customer FInd Items Page
+
+commit 550e00e427ea5b863dbf9ba8c44e46823a30e179
+Author: HMartinez114 <48391269+HMartinez114@users.noreply.github.com>
+Date:   Fri Nov 25 19:53:54 2022 -0500
+
+    Customer FInd Items Page
+    
+    Worked on the Customer Find Items Page. Page to search for items
+
+commit d0bcef2b6fff47ca9f0fef4312aa542dc25054a1
+Merge: 506ed76 d1f5e94
+Author: Justin Cabral <ijustincabral@gmail.com>
+Date:   Fri Nov 25 19:49:08 2022 -0500
+
+    Merge pull request #15 from iJustinCabral/dev_work
+    
+    Bug Fixes
+
+commit d1f5e9413a7e5e594bdbc4b18fcb4ccef471cc03
+Author: Justin Cabral <ijustincabral@gmail.com>
+Date:   Fri Nov 25 19:28:45 2022 -0500
+
+    Bug Fixes
+    
+    Mad some minor bug fixes to Corporate use cases.
+
+commit 506ed761cee11f012ab9d3e8e7f9f6d9a48bbf2e
+Merge: a0b9357 4032a28
+Author: Justin Cabral <ijustincabral@gmail.com>
+Date:   Fri Nov 25 07:44:11 2022 -0500
+
+    Merge pull request #14 from iJustinCabral/iteration2CustomerWork
+    
+    Iteration2 customer work
+
+commit 4032a28eeaa755e16eda9262346df5e6ddfc124e
+Author: HMartinez114 <48391269+HMartinez114@users.noreply.github.com>
+Date:   Thu Nov 24 14:32:36 2022 -0500
+
+    FInished Customer Find Item on Shelf
+    
+    Work for Customer FInd Item on Shelf page is done. Page now displays items on a shelf when given Store ID, shelf num and Aisle num.
+
+commit f446298eec6ea54cfc68cdc6ca88183733eb059f
+Author: HMartinez114 <48391269+HMartinez114@users.noreply.github.com>
+Date:   Wed Nov 23 22:29:15 2022 -0500
+
+    Customer List Stores - List Aisle on Shelf
+    
+    Customer List Stores is done. Customer List Item on Aisle Shelf partially done. WIll wrap up tomorrow
+
+commit 9ad6e047a4c18438888ebb8152cee316ac455b63
+Author: HMartinez114 <48391269+HMartinez114@users.noreply.github.com>
+Date:   Tue Nov 22 21:47:04 2022 -0500
+
+    Minor Customer Work
+    
+    I can't test full functionality of List Items on Shelf due to now knowing which shelves and stores have what. Also need clarification for List stores.
+
+commit a0b93575ff23dae18c1d7a05f4154155b46fbcdb
+Merge: 176d439 ab5ac7f
+Author: Justin Cabral <ijustincabral@gmail.com>
+Date:   Wed Nov 16 14:23:52 2022 -0500
+
+    Merge pull request #13 from iJustinCabral/Iteration2IntialWork
+    
+    Overstock Report Complete
+
+commit ab5ac7fbf4b63f8b670148eaf901d08248e4a223
+Author: HMartinez114 <48391269+HMartinez114@users.noreply.github.com>
+Date:   Wed Nov 16 14:22:17 2022 -0500
+
+    Overstock Report
+    
+    Made small edit to get rough functionality of Manager Overstock Report.
+
+commit 176d439177f52ed58f68367f8aaf0888fe496b6d
+Merge: 527895b 5727e0f
+Author: Justin Cabral <ijustincabral@gmail.com>
+Date:   Wed Nov 16 14:08:56 2022 -0500
+
+    Merge pull request #12 from iJustinCabral/Iteration2IntialWork
+    
+    Basis For Customer Pages + Minor Overstock Report Edit
+
+commit 527895bfead91da8ef47da6cc88bf492e2ebb29c
+Merge: 6292d59 19c0039
+Author: Justin Cabral <ijustincabral@gmail.com>
+Date:   Wed Nov 16 14:08:22 2022 -0500
+
+    Merge pull request #11 from iJustinCabral/dev_work
+    
+    Corporate Use Cases Complete
+
+commit 19c00397551689f80f0130a7d3eb6d8dfa67b492
+Author: Justin Cabral <ijustincabral@gmail.com>
+Date:   Wed Nov 16 14:07:20 2022 -0500
+
+    Corporate Use Cases Complete
+    
+    Finished the corporate use cases for the second iteration of our group project. Also made some fixes based on the feedback from iteration 1.
+
+commit 5727e0fcea2949517a9f7363bdac4c45626c5ca5
+Author: HMartinez114 <48391269+HMartinez114@users.noreply.github.com>
+Date:   Wed Nov 16 13:59:23 2022 -0500
+
+    Basis For Customer Pages + Minor Overstock Report Edit
+    
+    Laid the basis for the Customer stores. No Lambda functions exist yet so more work will be done for it later. Also edited the Manager Page for overstock report so that we can just slot in the lambda function.
+
+commit 6292d59eaa156a2d468dabe1581c917bf595d979
+Merge: b0edc4c 2cbd545
+Author: Justin Cabral <ijustincabral@gmail.com>
+Date:   Tue Nov 8 20:32:55 2022 -0500
+
+    Merge pull request #10 from iJustinCabral/dev_work
+    
+    Home Page Tweak
+
+commit 2cbd54510d64a6d4e4c58de0e571757032d05144
+Author: Justin Cabral <ijustincabral@gmail.com>
+Date:   Tue Nov 8 20:32:38 2022 -0500
+
+    Home Page Tweak
+    
+    Tweaked the design of the home page slightly to make it less confusing.
+
+commit b0edc4c03c750696ac58deb25e98805b398766af
+Merge: 195465d 5c1830f
+Author: Justin Cabral <ijustincabral@gmail.com>
+Date:   Tue Nov 8 20:30:08 2022 -0500
+
+    Merge pull request #9 from iJustinCabral/dev_work
+    
+    Finished Iteration 1 Milestone
+
+commit 5c1830f8758da571404d454846629235465db61e
+Author: Justin Cabral <ijustincabral@gmail.com>
+Date:   Tue Nov 8 20:29:35 2022 -0500
+
+    Finished Iteration 1 Milestone
+    
+    Completed the iteration 1 milestone.
+    
+    Added working log in page that talks to the server. Fixed the issue so you dont need to manually type in the manager id for a given store. Also fixed some general bugs.
+
+commit 195465dd9543c063d02cf5257163dabe2a006694
+Merge: a6c03a8 a120292
+Author: Justin Cabral <ijustincabral@gmail.com>
+Date:   Tue Nov 8 18:14:02 2022 -0500
+
+    Merge pull request #8 from iJustinCabral/dev_work
+    
+    Fixed UI rendering bug
+
+commit a1202927afe6578c6e9e83bb72cf22f013de5ef7
+Author: Justin Cabral <ijustincabral@gmail.com>
+Date:   Tue Nov 8 18:13:47 2022 -0500
+
+    Fixed UI rendering bug
+    
+    Fixed the ReactJS rendering bug when trying to map fields from a Object to UI elements inside reacts return() method.
+
+commit a6c03a898eb31b14f30469027d41f17f18a6dd33
+Merge: 7ff2d25 fad0f6b
+Author: Justin Cabral <ijustincabral@gmail.com>
+Date:   Tue Nov 8 16:00:37 2022 -0500
+
+    Merge pull request #7 from iJustinCabral/ManagerLambda
+    
+    Manager lambda
+
+commit fad0f6bc6aadba95d89b384f32014b468f98753a
+Author: HMartinez114 <48391269+HMartinez114@users.noreply.github.com>
+Date:   Tue Nov 8 15:59:57 2022 -0500
+
+    Manager Pages with Lambda
+    
+    Worked to implement Manager lambdas for iteration 2. Still need to straighten out Generate Inventory report for Manager pages
+
+commit 9b41cb205e80a30199b0ff53e93de1fee42014c2
+Author: HMartinez114 <48391269+HMartinez114@users.noreply.github.com>
+Date:   Mon Nov 7 22:51:43 2022 -0500
+
+    Basis for Manager Pages with Lambda
+    
+    Since I don't have the links currently, I've set up the foundation for the pages to work with lambda functions. Theres still some work to be done with Manager Process Shipment page and testing for the response on Manager Generate Inventory Page.
+
+commit 7ff2d25e1837ba9be377f79fb0131ace0590d0a1
+Merge: e9415ca 57efa31
+Author: Justin Cabral <ijustincabral@gmail.com>
+Date:   Wed Nov 2 13:10:57 2022 -0400
+
+    Merge pull request #6 from iJustinCabral/dev_work
+    
+    Bug Fixes
+
+commit 57efa3116b305151457c508047eccc4fbfa963fd
+Author: Justin Cabral <ijustincabral@gmail.com>
+Date:   Wed Nov 2 13:10:36 2022 -0400
+
+    Bug Fixes
+    
+    fixed some bugs related to textfields not clearing after submitting.
+
+commit e9415ca08c00bd27038ce9ef7a2c98098dbdf861
+Merge: 917297b 9c9ad33
+Author: Justin Cabral <ijustincabral@gmail.com>
+Date:   Wed Nov 2 12:18:25 2022 -0400
+
+    Merge pull request #5 from iJustinCabral/ManagerPages
+    
+    Manager pages
+
+commit 917297be2f03a1fa72507282a9bb1ea270fb01f6
+Merge: 50a160e c277134
+Author: Justin Cabral <ijustincabral@gmail.com>
+Date:   Wed Nov 2 12:15:42 2022 -0400
+
+    Merge pull request #4 from iJustinCabral/corpo_work
+    
+    Corpo work
+
+commit c2771341ec031484deecfaf54503d7b412abe4ef
+Author: Justin Cabral <ijustincabral@gmail.com>
+Date:   Wed Nov 2 12:15:22 2022 -0400
+
+    Added Create Store & Assign Item
+    
+    Added the create store and assign item functionality but it still needs some further testing with the backend.
+
+commit 9c9ad33468d16abb0185c59be930b1db56948df5
+Author: HMartinez114 <48391269+HMartinez114@users.noreply.github.com>
+Date:   Wed Nov 2 11:25:00 2022 -0400
+
+    Minor Edit to Manager page
+    
+    Fixed issue for Logout Icon on Manager Page
+
+commit 3eae32af8d402af2f2a10b35fd9bac2b1d418d96
+Author: Justin Cabral <ijustincabral@gmail.com>
+Date:   Wed Nov 2 11:07:21 2022 -0400
+
+    Removed Create Item Test
+    
+    Removed the create item test
+
+commit 8d69b21771fea7c33e3e0d74357cb85b4ba2cb5a
+Author: Justin Cabral <ijustincabral@gmail.com>
+Date:   Tue Nov 1 21:06:25 2022 -0400
+
+    Create Item Use Case Complete
+    
+    Completed the create item use case by posting to the aws lamda function.
+
+commit 6628c38efac358f5465585bebfb077be37a09e33
+Author: HMartinez114 <48391269+HMartinez114@users.noreply.github.com>
+Date:   Tue Nov 1 20:49:08 2022 -0400
+
+    Manager Pages
+    
+    Wrote Manager pages in a similar style to Justin's example in Corporate
+
+commit 50a160e0e300b7b2dc1365d29f2386a3ef568307
+Author: Justin Cabral <ijustincabral@gmail.com>
+Date:   Tue Nov 1 20:04:34 2022 -0400
+
+    Updated packages
+
+commit ec28e46f78b675a3d844024e4d2f1f150c200a64
+Author: Justin Cabral <ijustincabral@gmail.com>
+Date:   Tue Nov 1 20:04:24 2022 -0400
+
+    Added All Corporate Pages
+    
+    Added the required pages for the corporate user to complete all use cases.
+
+commit 5f3518eb066310c4280cf55a345ecd8cc84a1abb
+Author: Miles <milesgregg3@gmail.com>
+Date:   Mon Oct 31 22:40:02 2022 -0400
+
+    added posting data
+
+commit 1d3bf75d23a00c99c966799171b5ea039268e483
+Merge: b3308cd a7e8548
+Author: Justin Cabral <ijustincabral@gmail.com>
+Date:   Wed Oct 26 14:16:44 2022 -0400
+
+    Merge pull request #3 from iJustinCabral/development
+    
+    Added login page
+
+commit a7e8548151278af4dc4ab1282ca862403c2e4644
+Author: iJustinCabral <ijustincabral@gmail.com>
+Date:   Wed Oct 26 14:11:22 2022 -0400
+
+    Added login page
+    
+    Implemented the log in page. Still need to post JSON but for now just checking strings.
+
+commit b3308cd9f75341d12d22e5c14631e2b9e357b25f
+Merge: 2e93058 aef2323
+Author: Justin Cabral <ijustincabral@gmail.com>
+Date:   Wed Oct 26 12:28:35 2022 -0400
+
+    Merge pull request #2 from iJustinCabral/Devop
+    
+    SideBar for Manager/Coporate Test
+
+commit aef2323b8180f2fb9c47586f8230bad26fd77430
+Author: HMartinez114 <48391269+HMartinez114@users.noreply.github.com>
+Date:   Wed Oct 26 12:26:55 2022 -0400
+
+    SideBar for Manager/Coporate Test
+    
+    Testing MUI Sidebar functionality. Likely the basis for site appearance in the future
+
+commit 2e930582cc15e96aacc00b70a0cf19c601057134
+Merge: 417f4ea fe4f677
+Author: Justin Cabral <ijustincabral@gmail.com>
+Date:   Wed Oct 26 12:25:40 2022 -0400
+
+    Merge pull request #1 from iJustinCabral/development
+    
+    Styled the landing page
+
+commit fe4f67778a4a7abdd2f08d2c9478fcbe73c7add1
+Author: iJustinCabral <ijustincabral@gmail.com>
+Date:   Wed Oct 26 12:25:21 2022 -0400
+
+    Styled the landing page
+    
+    Styled the landing page to make it easy for the user to understand.
+
+commit 417f4ea1f177aea8621d9af74d3b50b33e885aa8
+Author: iJustinCabral <ijustincabral@gmail.com>
+Date:   Wed Oct 26 12:01:08 2022 -0400
+
+    Added Home, Corporate, and Manager Pages
+    
+    Added a home page, as well as corporate and manager pages as required.
+
+commit 4396fe034144eaf351a9cb4dd7ea7c59ea8628ca
+Author: iJustinCabral <ijustincabral@gmail.com>
+Date:   Wed Oct 26 11:16:48 2022 -0400
+
+    First commit. Intial Set up
